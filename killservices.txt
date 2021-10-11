@@ -1,0 +1,31 @@
+# Adobe ----------------------------
+AdobeARMservice
+AdobeUpdateService
+AGMService
+AGSService
+
+# Hyper-V --------------------------
+#HvHost
+vmcompute
+vmms
+
+# MS Passport ----------------------
+NgcCtnrSvc
+
+# Phone, Search, Print -------------
+PhoneSvc
+WSearch
+Spooler
+
+# Remote Desktop -------------------
+#TermService
+SessionEnv
+
+# Non-Windows ----------------------
+bzserv
+SQLWriter
+sshd
+nordvpn-service
+LGHUBUpdaterService
+WTabletServicePro
+Everything

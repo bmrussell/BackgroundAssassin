@@ -1,0 +1,365 @@
+Company,Name,Kill,Id,CommandLine
+,Aac3572DramHal_x86,,7352,
+,Aac3572MbHal_x86,,4752,
+,AacKingstonDramHal_x64,,10104,
+,AacKingstonDramHal_x86,,8500,
+,AcPowerNotification,,292,
+,AcrobatNotificationClient,Y,20696,"""C:\Program Files\WindowsApps\ReaderNotificationClient_1.0.4.0_x86__e1rzdqpraam7r\AcrobatNotificationClient.exe"" -ServerName:App.AppX9n879r3et3x3b24eqasexpgc3412rn2m.mca"
+Adobe Inc.,Adobe Desktop Service,Y,22472,"""C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe"" --onOSstartup=true --showwindow=false"
+,Adobe Installer,,24564,
+Adobe Systems Incorporated,AdobeCollabSync,Y,19856,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AdobeCollabSync.exe"" "
+Adobe Systems Incorporated,AdobeCollabSync,Y,19880,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AdobeCollabSync.exe""  --type=collab-renderer --proc=19856"
+Adobe Inc,AdobeIPCBroker,Y,20308,"""C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe"" ""-launchedbyvulcan-19076 C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe"""
+Adobe Inc.,AdobeNotificationClient,Y,23892,"""C:\Program Files\WindowsApps\AdobeNotificationClient_2.0.1.8_x86__enpm4xejd91yc\AdobeNotificationClient.exe"" -ServerName:App.AppXbdz14xebceycqvrazxqtnx89wn9e0ebz.mca"
+,AdobeUpdateService,,5280,
+,AGMService,,5348,
+,AGSService,,5404,
+Microsoft Corporation,ApplicationFrameHost,,19872,C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+,ArmouryAIOFanServer,,3216,
+,ArmouryCrate.Service,,5304,
+,ArmouryCrate.UserSessionHelper,,7052,
+,ArmourySocketServer,,5320,
+,ArmourySwAgent,,13120,
+,armsvc,,5268,
+,AsSysCtrlService,,5340,
+,AsusCertService,,2824,
+,AsusFanControlService,,5412,
+,asus_framework,,11200,
+,asus_framework,,14524,
+,asus_framework,,16668,
+,atkexComSvc,,4056,
+,audiodg,,16104,
+,AutoHotkey,Y,21252,"""C:\Program Files\AutoHotkey\AutoHotkey.exe"" ""H:\OneDrive\Code\AutoHotKey\PasteText.ahk"" "
+Creative Technology Ltd,BlasterX,,21056,"""C:\Program Files (x86)\Creative\BlasterX Acoustic Engine Pro\BlasterX Acoustic Engine Pro\BlasterX.exe"" /r"
+,BtwRSupportService,,5468,
+,bzbui,,16232,
+,bzfilelist,,29872,
+,bzserv,,5460,
+Microsoft Corporation,Calculator,Y,38480,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe"" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca"
+Adobe Systems Incorporated,CCLibrary,Y,24196,"""C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\CCLibrary.exe"""
+Adobe Systems Incorporated,CCXProcess,Y,19048,"""C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe"" "
+Microsoft Corporation,cmd,Y,23992,"C:\WINDOWS\system32\cmd.exe /d /s /c ""start """" /w ""C:\Program Files\WD Desktop App\kdd.exe"""""
+CANON INC.,CNMNSST2,Y,20776,"""C:\Program Files (x86)\Canon\IJ Network Scanner Selector EX2\CNMNSST2.exe"" /FORCE"
+,com.docker.service,,6768,
+Microsoft Corporation,CompPkgSrv,,22816,C:\Windows\System32\CompPkgSrv.exe -Embedding
+,conhost,,6448,
+Microsoft Corporation,conhost,,11512,\??\C:\WINDOWS\system32\conhost.exe 0x4
+Microsoft Corporation,conhost,,13624,\??\C:\WINDOWS\system32\conhost.exe 0x4
+Microsoft Corporation,conhost,,19092,\??\C:\WINDOWS\system32\conhost.exe 0x4
+Microsoft Corporation,conhost,,22624,\??\C:\WINDOWS\system32\conhost.exe 0x4
+Microsoft Corporation,conhost,,23776,\??\C:\WINDOWS\system32\conhost.exe 0x4
+Microsoft Corporation,conhost,,24468,\??\C:\WINDOWS\system32\conhost.exe 0x4
+,conhost,,30788,
+,CoreSync,Y,36740,"""C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CoreSync.exe"""
+Adobe Inc.,Creative Cloud,Y,22092,"""C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe"" --showwindow=false --onOSstartup=true"
+Adobe Inc.,Creative Cloud Helper,Y,13608,"""C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe"" --remoteApplet=UPI_BL --remoteAppletInstanceID=2F6FC9B9-A6D2-4B27-BD32-6C4AF8E72CD8 --remoteHelper=CCH_UPI"
+Adobe Inc.,Creative Cloud Helper,Y,20740,"""C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe"" --remoteCoreExt=NGLWrapper --remoteHelper=CCH_NGLW"
+,csrss,,796,
+,csrss,,972,
+Creative Technology Ltd,CTAudTsk,,21528,"""C:\Program Files (x86)\Creative\Shared Files\Creative Audio Task\CTAudTsk.exe"" "
+,ctfmon,,13268,
+Creative Technology Ltd,CTHIDTsk,,22012,"""C:\Program Files (x86)\Creative\Shared Files\Creative HID Task\CTHIDTsk.exe"" "
+,dasHost,,6112,
+,dirmngr,,5504,
+Discord Inc.,Discord,,5860,"""C:\Users\brian\AppData\Local\Discord\app-1.0.9003\Discord.exe"" --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=1808,1082878912730948098,7612638754880320008,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-GB --app-user-model-id=com.squirrel.Discord.Discord --app-path=""C:\Users\brian\AppData\Local\Discord\app-1.0.9003\resources\app.asar"" --no-sandbox --no-zygote --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=17 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2772 /prefetch:1 --enable-node-leakage-in-renderers"
+Discord Inc.,Discord,,14048,"""C:\Users\brian\AppData\Local\Discord\app-1.0.9003\Discord.exe"" --start-minimized"
+Discord Inc.,Discord,,18540,"C:\Users\brian\AppData\Local\Discord\app-1.0.9003\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\brian\AppData\Roaming\discord /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\brian\AppData\Roaming\discord\Crashpad --url=https://sentry.io/api/146342/minidump/?sentry_key=384ce4413de74fe0be270abe03b2b35a ""--annotation=_companyName=Discord Inc."" --annotation=_productName=Discord --annotation=_version=1.0.9003 --annotation=prod=Electron --annotation=ver=13.4.0 --initial-client-data=0x52c,0x530,0x534,0x494,0x538,0x7a28820,0x7a28830,0x7a2883c"
+Discord Inc.,Discord,,20852,"""C:\Users\brian\AppData\Local\Discord\app-1.0.9003\Discord.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1808,1082878912730948098,7612638754880320008,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-GB --service-sandbox-type=none --mojo-platform-channel-handle=2196 /prefetch:8"
+Discord Inc.,Discord,,21184,"""C:\Users\brian\AppData\Local\Discord\app-1.0.9003\Discord.exe"" --type=gpu-process --field-trial-handle=1808,1082878912730948098,7612638754880320008,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --gpu-preferences=SAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --mojo-platform-channel-handle=1848 /prefetch:2"
+Discord Inc.,Discord,,23092,"""C:\Users\brian\AppData\Local\Discord\app-1.0.9003\Discord.exe"" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1808,1082878912730948098,7612638754880320008,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-GB --service-sandbox-type=audio --mojo-platform-channel-handle=3880 /prefetch:8"
+Microsoft Corporation,dllhost,,3992,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+,dllhost,,10376,
+Microsoft Corporation,dllhost,,14368,C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+,dllhost,,53032,
+,dwm,,1324,
+,EncoderServer,,48860,
+,EpicGamesLauncher,,22244,"""C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe"" com.epicgames.launcher://apps/3622b6ddc5c849b1826085d5fe492eae%3A3d61e00e299c4c0d914c7e63d81e7f70%3Ab5e42b0dc2f544a5bbb4080a433b8b71?action=launch&silent=true"
+,EpicWebHelper,,4920,"""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe"" --type=renderer --no-sandbox --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --field-trial-handle=2212,11285325252721156929,15675318275208818172,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en-US --locales-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales"" --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --product-version=""EpicGamesLauncher/12.2.19-17594624+++Portal+Release-Live UnrealEngine/4.23.0-17594624+++Portal+Release-Live Chrome/84.0.4147.38"" --resources-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources"" --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4304 /prefetch:1"
+,EpicWebHelper,,8520,"""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2212,11285325252721156929,15675318275208818172,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en-US --service-sandbox-type=network --no-sandbox --locales-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales"" --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --product-version=""EpicGamesLauncher/12.2.19-17594624+++Portal+Release-Live UnrealEngine/4.23.0-17594624+++Portal+Release-Live Chrome/84.0.4147.38"" --resources-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources"" --lang=en --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=3660 /prefetch:8"
+,EpicWebHelper,,22668,"""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe"" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=2212,11285325252721156929,15675318275208818172,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en-US --service-sandbox-type=audio --no-sandbox --locales-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales"" --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --product-version=""EpicGamesLauncher/12.2.19-17594624+++Portal+Release-Live UnrealEngine/4.23.0-17594624+++Portal+Release-Live Chrome/84.0.4147.38"" --resources-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources"" --lang=en --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=3352 /prefetch:8"
+,EpicWebHelper,,24148,"""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe"" --type=gpu-process --field-trial-handle=2212,11285325252721156929,15675318275208818172,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --no-sandbox --locales-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales"" --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --product-version=""EpicGamesLauncher/12.2.19-17594624+++Portal+Release-Live UnrealEngine/4.23.0-17594624+++Portal+Release-Live Chrome/84.0.4147.38"" --resources-dir-path=""C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources"" --lang=en --gpu-preferences=MAAAAAAAAADgACAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --log-file=C:/Users/brian/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=2216 /prefetch:2"
+,Everything,,5588,
+voidtools,Everything,Y,17948,"""C:\Program Files\Everything\Everything.exe"" -startup"
+Microsoft Corporation,EXCEL,,47804,"""C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE"" "
+Microsoft Corporation,explorer,,8888,C:\WINDOWS\Explorer.EXE
+Microsoft Corporation,explorer,,52268,"C:\WINDOWS\explorer.exe /factory,{5BD95610-9434-43C2-886C-57852CC8A120} -Embedding"
+,extensionCardHal_x86,,720,
+Mozilla Corporation,firefox,,5808,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"""
+Mozilla Corporation,firefox,,10132,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.23.964859050\441145441"" -childID 9 -isForBrowser -prefsHandle 10436 -prefMapHandle 10432 -prefsLen 8267 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 10360 1fde8eabb38 tab"
+Mozilla Corporation,firefox,,24136,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.2.1740509601\190525182"" -childID 1 -isForBrowser -prefsHandle 2940 -prefMapHandle 2936 -prefsLen 596 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 2952 1fddd66af38 tab"
+Mozilla Corporation,firefox,,34180,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.28.2144748963\1658897813"" -childID 11 -isForBrowser -prefsHandle 7844 -prefMapHandle 5488 -prefsLen 8267 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 10884 1fddf215138 tab"
+Mozilla Corporation,firefox,,35444,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.0.634209030\1582688936"" -parentBuildID 20210922161155 -prefsHandle 1844 -prefMapHandle 1836 -prefsLen 1 -prefMapSize 268213 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 1936 1fdd740bd38 gpu"
+Mozilla Corporation,firefox,,41224,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.14.2113442753\82494803"" -childID 5 -isForBrowser -prefsHandle 5440 -prefMapHandle 5924 -prefsLen 6860 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 5252 1fde74e4338 tab"
+Mozilla Corporation,firefox,,46316,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.26.633126821\1364469542"" -childID 10 -isForBrowser -prefsHandle 10656 -prefMapHandle 10660 -prefsLen 8267 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 9936 1fddd7df738 tab"
+Mozilla Corporation,firefox,,46336,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.9.2111394205\1723070780"" -childID 3 -isForBrowser -prefsHandle 8960 -prefMapHandle 7352 -prefsLen 6501 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 2748 1fddb4c9338 tab"
+Mozilla Corporation,firefox,,46828,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.19.1963015882\581610726"" -childID 7 -isForBrowser -prefsHandle 10292 -prefMapHandle 5192 -prefsLen 8267 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 5832 1fddf4e5d38 tab"
+Mozilla Corporation,firefox,,46956,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.6.1579112244\598613504"" -parentBuildID 20210922161155 -prefsHandle 5916 -prefMapHandle 5556 -prefsLen 6459 -prefMapSize 268213 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 5812 1fde7520d38 rdd"
+Mozilla Corporation,firefox,,48036,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.4.1150641279\1515095462"" -childID 2 -isForBrowser -prefsHandle 5068 -prefMapHandle 5172 -prefsLen 6415 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 5188 1fddf4e5338 tab"
+Mozilla Corporation,firefox,,48648,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.21.70769072\1522950571"" -childID 8 -isForBrowser -prefsHandle 9972 -prefMapHandle 7080 -prefsLen 8267 -prefMapSize 268213 -jsInit 1608 285716 -parentBuildID 20210922161155 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 2144 1fde0a5b938 tab"
+Mozilla Corporation,firefox,,49428,"""C:\Users\brian\AppData\Local\Mozilla Firefox\firefox.exe"" -contentproc --channel=""5808.1.1035775237\561286743"" -parentBuildID 20210922161155 -prefsHandle 2264 -prefMapHandle 2144 -prefsLen 455 -prefMapSize 268213 -appdir ""C:\Users\brian\AppData\Local\Mozilla Firefox\browser"" - 5808 ""\\.\pipe\gecko-crash-server-pipe.5808"" 2336 1fddb5d5538 socket"
+,fontdrvhost,,1104,
+,fontdrvhost,,1112,
+,gamingservices,,8004,
+,gamingservicesnet,,7996,
+,GoogleCrashHandler,Y,7980,
+,GoogleCrashHandler64,Y,9080,
+Microsoft Corporation,HxOutlook,Y,18608,"""C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20436.0_x64__8wekyb3d8bbwe\HxOutlook.exe"" -ServerName:microsoft.windowslive.mail.AppXfbjsbkxvprcgqg6q4c9jfr0pn3kv9x5s.mca"
+Microsoft Corporation,HxTsr,,21068,"""C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20436.0_x64__8wekyb3d8bbwe\HxTsr.exe"" -ServerName:Hx.IPC.Server"
+,IAStorDataMgrSvc,,10296,
+Intel Corporation,IAStorIcon,,14008,"""C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe"""
+,Idle,,0,
+,IPROSetMonitor,,5704,
+,jhi_service,,5820,
+,kdd,,23388,"""C:\Program Files\WD Desktop App\kdd"" -dataDir ""C:\Users\brian\AppData\Roaming\WDDesktop\Data"" -env prod -logging wdlog -locale en-GB"
+Western Digital Corporation,kdd,Y,24272,"""C:\Program Files\WD Desktop App\kdd.exe"" "
+Dominik Reichl,KeePass,Y,20276,"""C:\Program Files (x86)\KeePass Password Safe 2\KeePass.exe"" "
+"Logitech, Inc.",KHALMNPR,,16600,KHALMNPR.EXE /API
+,lghub,,6908,
+"Logitech, Inc.",lghub,,16136,"""C:\Program Files\LGHUB\lghub.exe"" --type=gpu-process --field-trial-handle=1904,10080454328640677343,16889303569012744927,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --gpu-preferences=SAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --mojo-platform-channel-handle=1908 /prefetch:2"
+,lghub,,24700,
+,lghub,,33640,
+,lghub_agent,,30016,
+,lghub_updater,,29460,
+,LightingService,,5796,
+,LMS,,10340,
+Microsoft Corporation,LockApp,,37296,"""C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca"
+,logi_crashpad_handler,,12968,
+,logi_crashpad_handler,,36516,
+,LsaIso,,748,
+,lsass,,744,
+,Memory Compression,,3164,
+Microsoft Corporation,Microsoft.Mashup.Container.NetFX40,,39788,"""C:\Program Files\Microsoft Office\root\Office16\ADDINS\Microsoft Power Query for Excel Integrated\bin\Microsoft.Mashup.Container.NetFX40.exe"" 8372 11036 94b046e9-892c-44ee-a51e-ddf2daebb1ab 1"
+Microsoft Corporation,Microsoft.Photos,Y,13340,"""C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe"" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca"
+,mmc,,50556,
+,MoUsoCoreWorker,,20040,
+,MpCopyAccelerator,,22144,
+,MSIAfterburner,,47864,
+,MsMpEng,,5540,
+,muachost,,10140,
+,NisSrv,,9972,
+Node.js,node,Y,19076,"""C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe"" ""C:\Program Files\Adobe\Adobe Creative Cloud Experience\js\main.js"""
+Node.js,node,Y,23884,"""C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\libs\node.exe"" ""C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\js\server.js"""
+,nordvpn-service,,4432,
+Don HO don.h@free.fr,notepad++,,52488,"""C:\Program Files\Notepad++\notepad++.exe""  ""H:\Code\github\BackgroundAssassin\services.txt"""
+,NvBroadcast.Container,,5876,
+,NvBroadcast.Container,,6820,
+,nvcontainer,,4000,"""C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe"" -f ""C:\ProgramData\NVIDIA\NvContainerUser%dSPUser.log"" -d ""C:\Program Files\NVIDIA Corporation\NvContainer\plugins\SPUser"" -r -l 3 -p 30000 -st ""C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"" -c"
+,nvcontainer,,5888,
+,nvcontainer,,11216,"""C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe"" -f ""C:\ProgramData\NVIDIA\NvContainerUser%d.log"" -d ""C:\Program Files\NVIDIA Corporation\NvContainer\plugins\User"" -r -l 3 -p 30000 -st ""C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"" -c"
+,NVDisplay.Container,,2656,
+,NVDisplay.Container,,2992,
+,NVIDIA Broadcast,,14676,"""C:\Program Files\NVIDIA Corporation\NVIDIA Broadcast\NvVirtualCamera\NVIDIA Broadcast.exe"""
+NVIDIA Corporation,NVIDIA Broadcast UI,,10384,"""C:\Program Files\NVIDIA Corporation\NVIDIA Broadcast\NVIDIA Broadcast UI.exe"" -minimized"
+NVIDIA Corporation,NVIDIA Share,,16088,"""C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe"""
+NVIDIA Corporation,NVIDIA Share,,16376,"""C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe"" --type=gpu-process --field-trial-handle=2164,8599657847522199012,2257379600213555480,131072 --disable-features=VizDisplayCompositor --no-sandbox --log-file=""C:\Users\brian\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log"" --lang=en-US --gpu-preferences=KAAAAAAAAACACwAAAQAAAAAAAAAAAGAAAAAAAAEAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --log-file=""C:\Users\brian\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log"" --service-request-channel-token=13845756369945503927 --mojo-platform-channel-handle=2184 /prefetch:2"
+NVIDIA Corporation,NVIDIA Share,,16400,"""C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe"" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file=""C:\Users\brian\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log"" --field-trial-handle=2164,8599657847522199012,2257379600213555480,131072 --disable-features=VizDisplayCompositor --service-pipe-token=1333213955055382397 --lang=en-US --log-file=""C:\Users\brian\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log"" --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1333213955055382397 --renderer-client-id=3 --mojo-platform-channel-handle=2744 /prefetch:1"
+Node.js,NVIDIA Web Helper,,11376,"""C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe"" index.js"
+,nvsphelper64,,16196,
+,OfficeClickToRun,,5516,
+Microsoft Corporation,OneDrive,Y,18048,"""C:\Program Files\Microsoft OneDrive\OneDrive.exe"" /background"
+Microsoft Corporation,ONENOTEM,Y,19712,"""C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE"" /tsr"
+Microsoft Corporation,OpenConsole,,40772,"""C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.10.2383.0_x64__8wekyb3d8bbwe\OpenConsole.exe"" --headless --win32input --resizeQuirk --width 120 --height 30 --signal 0xb7c --server 0xb48"
+Electronic Arts,Origin,,12236,"""C:\Program Files (x86)\Origin\Origin.exe"" -AutoStart"
+,OriginClientService,,23540,
+,OriginWebHelperService,,6120,
+,PnkBstrA,,5964,
+Microsoft Corporation,pwsh,,48408,"""C:\Program Files\PowerShell\7\pwsh.exe"""
+,QtWebEngineProcess,,12600,"""C:\Program Files (x86)\Origin\QtWebEngineProcess.exe"" --type=renderer --disable-accelerated-video-decode --disable-gpu-memory-buffer-video-frames --enable-threaded-compositing --no-sandbox --disable-webrtc-hw-encoding --primordial-pipe-token=6FABDCB90E4C617048676F4CB82BFEC2 --lang=en-US --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-gpu-compositing --mojo-channel-token=26D8101CABDF209B4266CD91236DEF17 --mojo-application-channel-token=6FABDCB90E4C617048676F4CB82BFEC2 --channel=""12236.2.707092731\1200510833"" --mojo-platform-channel-handle=4456 /prefetch:1"
+,QtWebEngineProcess,,19436,"""C:\Program Files (x86)\Origin\QtWebEngineProcess.exe"" --type=renderer --disable-accelerated-video-decode --disable-gpu-memory-buffer-video-frames --enable-threaded-compositing --no-sandbox --disable-webrtc-hw-encoding --primordial-pipe-token=DD4C1632B2EAFBEBF256EEF0BF5CFFAC --lang=en-US --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-gpu-compositing --mojo-channel-token=B8DC568789B70D2B5C26ECEBFC4D3437 --mojo-application-channel-token=DD4C1632B2EAFBEBF256EEF0BF5CFFAC --channel=""12236.0.1332779545\1554560272"" --mojo-platform-channel-handle=3804 /prefetch:1"
+,QtWebEngineProcess,,19720,"""C:\Program Files (x86)\Origin\QtWebEngineProcess.exe"" --type=renderer --disable-accelerated-video-decode --disable-gpu-memory-buffer-video-frames --enable-threaded-compositing --no-sandbox --disable-webrtc-hw-encoding --disable-databases --primordial-pipe-token=3F47CB112C99F945D4B8F7286CF4B5BC --lang=en-US --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-gpu-compositing --mojo-channel-token=8E2D5E2976A8B3649192390643087EE1 --mojo-application-channel-token=3F47CB112C99F945D4B8F7286CF4B5BC --channel=""12236.3.682939429\724087828"" --mojo-platform-channel-handle=5012 /prefetch:1"
+,QtWebEngineProcess,,20020,"""C:\Program Files (x86)\Origin\QtWebEngineProcess.exe"" --type=renderer --disable-accelerated-video-decode --disable-gpu-memory-buffer-video-frames --enable-threaded-compositing --no-sandbox --disable-webrtc-hw-encoding --primordial-pipe-token=DF8CFC6ECB1F3E62EA46BF45FC2369C9 --lang=en-US --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-gpu-compositing --mojo-channel-token=DA68FED7D00B513AEC445C171715E833 --mojo-application-channel-token=DF8CFC6ECB1F3E62EA46BF45FC2369C9 --channel=""12236.6.1668909095\1868117356"" --mojo-platform-channel-handle=5448 /prefetch:1"
+,QtWebEngineProcess,,20028,"""C:\Program Files (x86)\Origin\QtWebEngineProcess.exe"" --type=renderer --disable-accelerated-video-decode --disable-gpu-memory-buffer-video-frames --enable-threaded-compositing --no-sandbox --disable-webrtc-hw-encoding --primordial-pipe-token=C5885C0D33237F98A49F495B74628600 --lang=en-US --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-gpu-compositing --mojo-channel-token=A5F8A552E11FFBC25824A73DFFA291CC --mojo-application-channel-token=C5885C0D33237F98A49F495B74628600 --channel=""12236.7.788159708\104796477"" --mojo-platform-channel-handle=5464 /prefetch:1"
+,RazerInstaller,,53188,
+,Registry,,132,
+,remoting_host,,5428,
+,remoting_host,,7244,
+,ROGLiveService,,5988,
+,RTSS,,50908,
+,RTSSHooksLoader64,,48844,
+Microsoft Corporation,rundll32,,4768,"""C:\WINDOWS\system32\rundll32.exe"" -localserver 22d8c27b-47a1-48d1-ad08-7da7abd79617"
+,rundll32,,7796,
+Microsoft Corporation,RuntimeBroker,,2812,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,8248,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,12264,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,12396,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,12848,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,13376,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,14040,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,14068,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,16220,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,17396,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,19700,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,31260,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,RuntimeBroker,,39552,C:\Windows\System32\RuntimeBroker.exe -Embedding
+Microsoft Corporation,SDXHelper,,21364,"""C:\Program Files\Microsoft Office\Root\Office16\SDXHelper.exe"" -Embedding"
+Microsoft Corporation,SearchApp,Y,11740,"""C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe"" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca"
+,SearchIndexer,,2740,
+,Secure System,,64,
+,SecurityHealthService,,8268,
+,ServiceLayer,,5896,
+,services,,620,
+"Logitech, Inc.",SetPoint,,17400,"""C:\Program Files\Logitech\SetPointP\SetPoint.exe"" /launchGaming"
+Microsoft Corporation,SettingSyncHost,,12336,C:\WINDOWS\system32\SettingSyncHost.exe -Embedding
+,SgrmBroker,,10408,
+Microsoft Corporation,ShellExperienceHost,,14052,"""C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca"
+Microsoft Corporation,sihost,,1020,sihost.exe
+Slack Technologies Inc.,slack,,16328,#NAME?
+Slack Technologies Inc.,slack,,17292,"""C:\Users\brian\AppData\Local\slack\app-4.19.3\slack.exe"" --type=gpu-process --field-trial-handle=1824,17454295955180387771,12110528598566842014,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,RequestInitiatorSiteLockEnfocement,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --gpu-preferences=SAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --mojo-platform-channel-handle=1836 /prefetch:2"
+Slack Technologies Inc.,slack,,18736,"""C:\Users\brian\AppData\Local\slack\app-4.19.3\slack.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1824,17454295955180387771,12110528598566842014,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,RequestInitiatorSiteLockEnfocement,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --lang=en-GB --service-sandbox-type=none --standard-schemes=app,slack-webapp-dev --enable-sandbox --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --mojo-platform-channel-handle=1916 /prefetch:8"
+Slack Technologies Inc.,slack,,19780,"""C:\Users\brian\AppData\Local\slack\app-4.19.3\slack.exe"" --type=renderer --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=1824,17454295955180387771,12110528598566842014,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,RequestInitiatorSiteLockEnfocement,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --lang=en-GB --standard-schemes=app,slack-webapp-dev --enable-sandbox --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\brian\AppData\Local\slack\app-4.19.3\resources\app.asar"" --enable-sandbox --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2728 /prefetch:1 --window-type=main"
+Slack Technologies Inc.,slack,,20236,"""C:\Users\brian\AppData\Local\slack\app-4.19.3\slack.exe"" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1824,17454295955180387771,12110528598566842014,131072 --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,RequestInitiatorSiteLockEnfocement,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --lang=en-GB --service-sandbox-type=audio --standard-schemes=app,slack-webapp-dev --enable-sandbox --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --mojo-platform-channel-handle=4956 /prefetch:8"
+Slack Technologies Inc.,slack,,20304,"C:\Users\brian\AppData\Local\slack\app-4.19.3\slack.exe --type=crashpad-handler --user-data-dir=C:\Users\brian\AppData\Roaming\Slack /prefetch:7 --no-rate-limit --no-upload-gzip --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\brian\AppData\Roaming\Slack\Crashpad --url=https://slack.com/apps/sentryproxy/api/5277886/minidump/?sentry_key=fd30fe469dbf4aec9db40548e5acf91e --annotation=_productName=Slack --annotation=_version=4.19.3 --annotation=prod=Electron --annotation=ver=13.2.1 --initial-client-data=0x510,0x4fc,0x51c,0x518,0x520,0x7ff66e270590,0x7ff66e2705a0,0x7ff66e2705b0"
+Slack Technologies Inc.,slack,,29244,"""C:\Users\brian\AppData\Local\slack\app-4.19.3\slack.exe"" ""slack://channel/?id=D0F0VNX1R&message=1632738606.002600&team=T0EQ9QM4P&origin=notification"""
+,smss,,512,
+SoundSwitch,SoundSwitch,,18708,"""C:\Program Files\SoundSwitch\SoundSwitch.exe"" "
+,spoolsv,,4528,
+(c)2020 Datacolor,SpyderUtility,Y,20680,"""C:\Program Files (x86)\Datacolor\SpyderXPro\Utility\SpyderUtility.exe"" "
+,sqlwriter,,6028,
+,SS3Svc32,,6956,
+,SS3Svc64,,14564,
+,sshd,,6048,
+,StartMenuExperienceHost,,11464,"""C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca"
+Valve Corporation,steam,,14108,"""E:\Games\Steam\steam.exe"" -silent"
+,SteamService,,5924,
+Valve Corporation,steamwebhelper,,2752,"E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe ""-lang=en_US"" ""-cachedir=C:\Users\brian\AppData\Local\Steam\htmlcache"" ""-steampid=14108"" ""-buildid=1631912732"" ""-steamid=0"" ""-cachedir=C:\Users\brian\AppData\Local\Steam\htmlcache"" ""-steamuniverse=Public"" ""-realm=Global"" ""-clientui=E:\Games\Steam\clientui"" --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --enable-media-stream --enable-smooth-scrolling --enable-direct-write ""--log-file=E:\Games\Steam\logs\cef_log.txt"" --disable-quick-menu"
+Valve Corporation,steamwebhelper,,4148,"""E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe"" --type=renderer --log-file=""E:\Games\Steam\logs\cef_log.txt"" --field-trial-handle=1760,6215498917415498783,1501915834068821843,131072 --disable-features=MimeHandlerViewInCrossProcessFrame --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-GB --log-file=""E:\Games\Steam\logs\cef_log.txt"" --product-version=""Valve Steam Client"" --buildid=1631912732 --steamid=0 --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1046974835944574298 --renderer-client-id=7 --mojo-platform-channel-handle=3224 /prefetch:1"
+Valve Corporation,steamwebhelper,,17520,"E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe --type=crashpad-handler /prefetch:7 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler --database=E:\Games\Steam\dumps ""--metrics-dir=C:\Users\brian\AppData\Local\CEF\User Data"" --url=http://crash.steampowered.com/submit --annotation=platform=win64 --annotation=product=cefwebhelper --annotation=version=1631912732 --initial-client-data=0x328,0x324,0x33c,0x31c,0x340,0x7ffb31aebf10,0x7ffb31aebf20,0x7ffb31aebf30"
+Valve Corporation,steamwebhelper,,18840,"""E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe"" --type=gpu-process --field-trial-handle=1760,6215498917415498783,1501915834068821843,131072 --disable-features=MimeHandlerViewInCrossProcessFrame --log-file=""E:\Games\Steam\logs\cef_log.txt"" --product-version=""Valve Steam Client"" --lang=en-GB --buildid=1631912732 --steamid=0 --gpu-preferences=KAAAAAAAAADgAAAwAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --log-file=""E:\Games\Steam\logs\cef_log.txt"" --service-request-channel-token=13898501009469861886 --mojo-platform-channel-handle=1764 --ignored="" --type=renderer "" /prefetch:2"
+Valve Corporation,steamwebhelper,,19212,"""E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe"" --type=utility --field-trial-handle=1760,6215498917415498783,1501915834068821843,131072 --disable-features=MimeHandlerViewInCrossProcessFrame --lang=en-GB --service-sandbox-type=network --log-file=""E:\Games\Steam\logs\cef_log.txt"" --product-version=""Valve Steam Client"" --lang=en-GB --buildid=1631912732 --steamid=0 --log-file=""E:\Games\Steam\logs\cef_log.txt"" --service-request-channel-token=17618332160250534117 --mojo-platform-channel-handle=1776 /prefetch:8"
+Valve Corporation,steamwebhelper,,25160,"""E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe"" --type=renderer --log-file=""E:\Games\Steam\logs\cef_log.txt"" --field-trial-handle=1760,6215498917415498783,1501915834068821843,131072 --disable-features=MimeHandlerViewInCrossProcessFrame --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-GB --log-file=""E:\Games\Steam\logs\cef_log.txt"" --product-version=""Valve Steam Client"" --buildid=1631912732 --steamid=0 --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=3008396311318466539 --renderer-client-id=5 --mojo-platform-channel-handle=2860 /prefetch:1"
+Valve Corporation,steamwebhelper,,31284,"""E:\Games\Steam\bin\cef\cef.win7x64\steamwebhelper.exe"" --type=renderer --log-file=""E:\Games\Steam\logs\cef_log.txt"" --field-trial-handle=1760,6215498917415498783,1501915834068821843,131072 --disable-features=MimeHandlerViewInCrossProcessFrame --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-GB --log-file=""E:\Games\Steam\logs\cef_log.txt"" --product-version=""Valve Steam Client"" --buildid=1631912732 --steamid=0 --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=9878957276961039042 --renderer-client-id=9 --mojo-platform-channel-handle=4052 /prefetch:1"
+,svchost,,1016,
+,svchost,,1076,
+,svchost,,1196,
+,svchost,,1244,
+,svchost,,1352,
+,svchost,,1452,
+,svchost,,1492,
+,svchost,,1568,
+,svchost,,1620,
+Microsoft Corporation,svchost,,1660,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+,svchost,,1680,
+,svchost,,1744,
+,svchost,,1752,
+,svchost,,1764,
+,svchost,,1772,
+,svchost,,1880,
+,svchost,,1916,
+,svchost,,2028,
+,svchost,,2080,
+,svchost,,2092,
+,svchost,,2192,
+,svchost,,2224,
+,svchost,,2316,
+,svchost,,2352,
+,svchost,,2388,
+,svchost,,2600,
+,svchost,,2712,
+,svchost,,2768,
+,svchost,,2796,
+,svchost,,3052,
+,svchost,,3060,
+,svchost,,3068,
+,svchost,,3084,
+,svchost,,3092,
+,svchost,,3132,
+,svchost,,3452,
+,svchost,,3480,
+,svchost,,3536,
+,svchost,,3552,
+,svchost,,3596,
+,svchost,,3684,
+,svchost,,3776,
+,svchost,,3824,
+,svchost,,3832,
+,svchost,,3852,
+,svchost,,3888,
+,svchost,,4160,
+,svchost,,4196,
+,svchost,,4368,
+,svchost,,4872,
+,svchost,,4880,
+,svchost,,4924,
+,svchost,,4952,
+,svchost,,5004,
+,svchost,,5208,
+,svchost,,5376,
+,svchost,,5436,
+,svchost,,5444,
+,svchost,,5452,
+,svchost,,5496,
+,svchost,,5648,
+Microsoft Corporation,svchost,,5904,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p -s BluetoothUserService
+,svchost,,5908,
+,svchost,,6036,
+,svchost,,6068,
+,svchost,,6092,
+,svchost,,6192,
+,svchost,,6200,
+,svchost,,6392,
+,svchost,,6496,
+,svchost,,7492,
+,svchost,,8276,
+Microsoft Corporation,svchost,,8352,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+,svchost,,8780,
+,svchost,,8840,
+,svchost,,8952,
+,svchost,,9176,
+Microsoft Corporation,svchost,,9648,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+,svchost,,10032,
+,svchost,,10508,
+,svchost,,10764,
+,svchost,,10864,
+,svchost,,11144,
+,svchost,,11244,
+Microsoft Corporation,svchost,,11956,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+Microsoft Corporation,svchost,,16424,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CaptureService
+,svchost,,19596,
+,svchost,,23740,
+,svchost,,26488,
+,svchost,,27740,
+,svchost,,28556,
+,svchost,,35384,
+,svchost,,35784,
+Microsoft Corporation,svchost,,44552,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -s DevicesFlowUserSvc
+,svchost,,49076,
+,svchost,,52316,
+,System,,4,
+Microsoft Corporation,SystemSettings,,49392,"""C:\Windows\ImmersiveControlPanel\SystemSettings.exe"" -ServerName:microsoft.windows.immersivecontrolpanel"
+,TabTip,,11804,
+Microsoft Corporation,taskhostw,,3124,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+,taskhostw,,4172,
+Microsoft Corporation,TextInputHost,,16260,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe"" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca"
+,unsecapp,,6928,
+,unsecapp,,7632,
+Microsoft Corporation,UserOOBEBroker,,21432,C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+Microsoft Corporation,Video.UI,,1004,"""C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.21061.10121.0_x64__8wekyb3d8bbwe\Video.UI.exe"" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca"
+,vmcompute,,4452,
+,vmmem,,10152,
+,vmms,,2300,
+,WacomHost,,11352,
+,Wacom_Tablet,,12044,
+Wacom Co. Ltd.,Wacom_TabletUser,Y,9200,"""C:\Program Files\Tablet\Wacom\Wacom_TabletUser.exe"" "
+,Wacom_TouchUser,,6704,
+,WD Device Agent,,24008,
+Western Digital Corporation,WD Discovery,Y,13832,"""C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe"" --type=renderer --no-sandbox --enable-features=SharedArrayBuffer --service-pipe-token=6293123101662975215 --lang=en-GB --app-path=""C:\Program Files (x86)\Western Digital\Discovery\Current\resources\app.asar"" --node-integration=true --webview-tag=true --no-sandbox --background-color=#fff --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=6293123101662975215 --renderer-client-id=4 --mojo-platform-channel-handle=2348 /prefetch:1"
+Western Digital Corporation,WD Discovery,Y,22156,"""C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe"" --type=gpu-process --enable-features=SharedArrayBuffer --no-sandbox --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --use-gl=swiftshader-webgl --service-request-channel-token=1944966100294859968 --mojo-platform-channel-handle=1728 /prefetch:2"
+Western Digital Corporation,WD Discovery,Y,22168,"""C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe"" --autolaunch"
+Western Digital Corporation,WD Discovery,Y,23484,"""C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe"" --reporter-url=https://logdump.wdckeystone.com/post?validate=false&portalType=WD%20Discovery&portalVersion=4.3.336&platform=windows&platformVersion=10.0.19043&portalId=26ca7342-5b3d-476d-8579-60b8bcc9dba1 ""--application-name=WD Discovery"" ""--crashes-directory=C:\Users\brian\AppData\Local\Temp\WD Discovery Crashes"" --v=1"
+Western Digital Corporation,WDDiscoveryMonitor,Y,22924,"""C:\Program Files (x86)\Western Digital\Discovery\Current\WDDiscoveryMonitor.exe""  22168 ""C:\Users\brian\.wdc\22168.pid.json"" ""C:\Program Files (x86)\Western Digital\Discovery\Current"" ""C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe"" ""WD Device Agent Task brian"" ""--autolaunch"""
+,WDDiscoveryService,,23920,
+,wdsync,Y,6088,"""C:\Program Files\WD Desktop App\wdsync.exe"" -dataDir C:\Users\brian\AppData\Roaming\WDDesktop\Data\Sync -target local -logging wdlog"
+,wdsync,Y,23700,"""C:\Program Files\WD Desktop App\wdsync.exe"" -dataDir ""C:\Users\brian\AppData\Roaming\WDDesktop\Data\Sync"" -env prod -logging wdlog"
+,wdsync,Y,31596,"""C:\Program Files\WD Desktop App\wdsync.exe"" -dataDir C:\Users\brian\AppData\Roaming\WDDesktop\Data\Sync -target remote -logging wdlog"
+,wdsync-inotify,Y,24940,"""C:\Program Files\WD Desktop App\wdsync-inotify.exe"" -home C:\Users\brian\AppData\Roaming\WDDesktop\Data\Sync\clients\local"
+Microsoft Corporation,WindowsTerminal,,22980,"""C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.10.2383.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe"" "
+,wininit,,964,
+,winlogon,,876,
+Microsoft Corporation,WinStore.App,,23436,"""C:\Program Files\WindowsApps\Microsoft.WindowsStore_12107.1001.15.0_x64__8wekyb3d8bbwe\WinStore.App.exe"" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca"
+,WmiPrvSE,,4336,
+,WmiPrvSE,,4356,
+Wox,Wox,Y,19064,"""C:\Users\brian\AppData\Local\Wox\app-1.3.524\Wox.exe"" "
+,WTabletServicePro,,6136,
+Microsoft Corporation,WWAHost,,20760,"""C:\WINDOWS\system32\wwahost.exe"" -ServerName:Netflix.App.wwa"
+Microsoft Corporation,YourPhone,Y,5392,"""C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21072.161.0_x64__8wekyb3d8bbwe\YourPhone.exe"" -ServerName:App.AppX9yct9q388jvt4h7y0gn06smzkxcsnt8m.mca"
+Microsoft Corporation,YourPhoneServer,Y,17336,"""C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21072.161.0_x64__8wekyb3d8bbwe\YourPhoneServer/YourPhoneServer.exe"" -Embedding"

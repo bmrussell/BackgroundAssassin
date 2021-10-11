@@ -1,0 +1,27 @@
+Adobe Desktop Service.exe
+AdobeCollabSync.exe
+AdobeIPCBroker.exe
+AutoHotkey.exe
+CCLibrary.exe
+CCXProcess.exe
+CNMNSST2.exe
+CoreSync.exe
+Creative Cloud Helper.exe
+#Everything.exe
+HxOutlook.exe
+kdd.exe
+kdd    
+KeePass.exe
+node.exe
+OneDrive.exe
+ONENOTEM.EXE
+SearchApp.exe
+SpyderUtility.exe
+Wacom_TabletUser.exe
+WD Discovery.exe
+WDDiscoveryMonitor.exe
+wdsync.exe        
+wdsync-inotify.exe
+Wox.exe
+YourPhone.exe      
+YourPhoneServer.exe

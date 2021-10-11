@@ -1,0 +1,1 @@
+Get-Process | select company, name, id, commandline | Export-Csv -NoTypeInformation -Path processes.csv

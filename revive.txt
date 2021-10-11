@@ -1,0 +1,25 @@
+"C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe" --onOSstartup=true --showwindow=false
+"C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AdobeCollabSync.exe" --type=collab-renderer --proc=21512
+"C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe" "-launchedbyvulcan-20900 C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe"
+"C:\Program Files\AutoHotkey\AutoHotkey.exe" H:\OneDrive\Code\AutoHotKey\PasteText.ahk
+"C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\CCLibrary.exe"
+"C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe"
+"C:\Program Files (x86)\Canon\IJ Network Scanner Selector EX2\CNMNSST2.exe" /FORCE
+"C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CoreSync.exe"
+"C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe" --remoteCoreExt=NGLWrapper --remoteHelper=CCH_NGLW
+"C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe" --remoteApplet=UPI_BL --remoteAppletInstanceID=BE0C89C1-B1DE-43A7-8504-F26B58F6A793 --remoteHelper=CCH_UPI
+"C:\Program Files\WD Desktop App\kdd.exe" 
+"C:\Program Files (x86)\KeePass Password Safe 2\KeePass.exe"
+"C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
+"C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE" /tsr
+"C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+"C:\Program Files (x86)\Datacolor\SpyderXPro\Utility\SpyderUtility.exe"
+"C:\Program Files\Tablet\Wacom\Wacom_TabletUser.exe"
+"C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe" --reporter-url=https://logdump.wdckeystone.com/post?validate=false&portalType=WD%20Discovery&portalVersion=4.3.336&platform=windows&platformVersion=10.0.19043&portalId=26ca7342-5b3d-476d-8579-60b8bcc9dba1 "--application-name=WD Discovery" "--crashes-directory=C:\Users\brian\AppData\Local\Temp\WD Discovery Crashes" --v=1
+"C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe" "WD Device Agent Task brian" "--autolaunch"
+"C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe" --type=gpu-process --enable-features=SharedArrayBuffer --no-sandbox --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --use-gl=swiftshader-webgl --service-request-channel-token=11653399537846177306 --mojo-platform-channel-handle=1552 /prefetch:2
+"C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe" --type=renderer --no-sandbox --enable-features=SharedArrayBuffer --service-pipe-token=11975216205139711744 --lang=en-GB --app-path="C:\Program Files (x86)\Western Digital\Discovery\Current\resources\app.asar" --node-integration=true --webview-tag=true --no-sandbox --background-color=#fff --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=11975216205139711744 --renderer-client-id=4 --mojo-platform-channel-handle=2328 /prefetch:1
+"C:\Program Files (x86)\Western Digital\Discovery\Current\WDDiscoveryMonitor.exe" 5664 C:\Users\brian\.wdc\5664.pid.json "C:\Program Files (x86)\Western Digital\Discovery\Current" "C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe" "WD Device Agent Task brian" --autolaunch
+"C:\Program Files (x86)\Western Digital\Discovery\Current\WDDiscoveryMonitor.exe"  25728 "C:\Users\brian\.wdc\25728.pid.json" "C:\Program Files (x86)\Western Digital\Discovery\Current" "C:\Program Files (x86)\Western Digital\Discovery\Current\WD Discovery.exe" "WD Device Agent Task brian" "WD Device Agent Task brian" "--autolaunch"
+"C:\Users\brian\AppData\Local\Wox\app-1.3.524\Wox.exe"
+"C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21084.78.0_x64__8wekyb3d8bbwe\YourPhoneServer/YourPhoneServer.exe" -Embedding

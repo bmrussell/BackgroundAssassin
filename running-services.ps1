@@ -1,0 +1,1 @@
+Get-Service | Where-Object Status -eq 'Running' | select name, DisplayName, DependentServices, description | Export-Csv -NoTypeInformation -Path services.csv
