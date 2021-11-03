@@ -4,8 +4,10 @@ AdobeUpdateService
 AGMService
 AGSService
 
+# Docker ---------------------------
+com.docker.service
+
 # Hyper-V --------------------------
-#HvHost
 vmcompute
 vmms
 

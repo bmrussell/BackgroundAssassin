@@ -1,3 +1,4 @@
+# Start the services given on input
 foreach ($servicename in $input) {
 	if (!($servicename.StartsWith('#') -or $servicename.trim() -eq '')) {		
 		$svc = Get-Service $servicename

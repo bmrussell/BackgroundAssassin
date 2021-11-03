@@ -1,3 +1,5 @@
+# Kill the processes provided on input, saving the killed ones to revive.txt
+
 $reviveFile = 'revive.txt'
 if (Test-Path -Path $reviveFile -PathType Leaf) {
 	Remove-Item $reviveFile
