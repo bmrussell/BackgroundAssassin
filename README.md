@@ -23,3 +23,6 @@ Kills processes & services, executes the supplied program and waits it to finish
 **Notes**:
 1. The kill/restart portion of the script runs as admin so will trigger the Windows UAC prompt.
 2. If some services fail to start/stop, try changing the order of them in the input text files
+
+## TODO
+1. Test the launching program option 
